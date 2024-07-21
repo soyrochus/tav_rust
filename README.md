@@ -7,9 +7,9 @@ This is the source code which accompanies a two-hour "first glance" workshop abo
 
 - demos: comparison between C and Rust
 - primer_proyecto: First project created with Cargo init
-- first steps: overview of basic Rust syntax and structures
+- first steps: overview of basic Rust syntax and structures, inclusing Struct, Impl and Trait
 - rustlings - exercise directory generated with rustlings
-
+- httpserver - simple demo app
 
 ## Contributing
 
