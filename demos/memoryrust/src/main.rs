@@ -13,7 +13,7 @@ fn main() {
 
     // Write a NULL to the string address (by setting it to None)
     // str = NULL: is not allowed in Rust
-    //str = None;
+    str = None;
 
     // Call shout again with the NULL string
     shout(&str);
