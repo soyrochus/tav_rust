@@ -1,6 +1,15 @@
 # tav_rust
 Workbench for learning Rust (mixed ES/EN)
 
+This is the source code which accompanies a two-hour "first glance" workshop about Rust.
+
+## Contents
+
+- demos: comparison between C and Rust
+- primer_proyecto: First project created with Cargo init
+- first steps: overview of basic Rust syntax and structures
+- rustlings - exercise directory generated with rustlings
+
 
 ## Contributing
 
