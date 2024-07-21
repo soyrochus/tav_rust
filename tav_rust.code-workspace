@@ -5,6 +5,12 @@
 		},
 		{
 			"path": "demos/memoryc"
+		},
+		{
+			"path": "primer_proyecto"
+		},
+		{
+			"path": "rustlings"
 		}
 	],
 	"settings": {}
