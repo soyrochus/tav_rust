@@ -32,6 +32,25 @@ pub fn basic() {
     let heart_eyed_cat: char = '😻';
     println!("heart_eyed_cat: {}", heart_eyed_cat); // Output: heart_eyed_cat: 😻
 
+
+    //let 😻: char = '😻';
+    //println!("heart_eyed_cat: {}", 😻); // Output: heart_eyed_cat: 😻
+
+    let número = 10; // Spanish for 'number'
+    let 文字 = "Hello"; // Japanese kanji for 'character'
+    //let π = 3.14159; // Greek letter pi
+   
+
+    println!("número: {}", número);
+    println!("文字: {}", 文字);
+    //println!("π: {}", π);
+
+    // Using Unicode characters in function names
+    //saludar(); // Spanish for 'to greet'
+    //こんにちは(); // Japanese for 'hello'
+    //calcular_π(); // Spanish for 'calculate pi'
+    
+    
     // Compound types: tuples and arrays
 
     // Tuple with elements of different types

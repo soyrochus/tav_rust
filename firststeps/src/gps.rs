@@ -26,6 +26,9 @@ impl GPSRoute {
             route: Vec::new(),
         }
     }
+}
+// You can also implement constructor and Impl methods in one block
+impl GPSRoute {
 
     fn add_position(&mut self, pos: GPSPos, time: &str) {
         self.route.push((pos, time.to_string()));
@@ -55,7 +58,6 @@ impl Plot for GPSRoute {
         }
     }
 }
-
 
 pub fn plot(){
     // Create a single GPS position
